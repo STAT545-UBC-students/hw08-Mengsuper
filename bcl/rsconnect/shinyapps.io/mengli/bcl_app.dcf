@@ -1,0 +1,12 @@
+name: bcl_app
+title: bcl_app
+username:
+account: mengli
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 584233
+bundleId: 1714148
+url: https://mengli.shinyapps.io/bcl_app/
+when: 1542848336.00489
+asMultiple: FALSE
+asStatic: FALSE
